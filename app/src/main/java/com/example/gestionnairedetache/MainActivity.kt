@@ -46,7 +46,7 @@ fun AllTasksCompletedScreen() {
         ) {
             Image(
                 painter = painterResource(id = R.drawable.ic_task_completed),
-                contentDescription = null // Image décorative
+                contentDescription = null 
             )
 
             Text(
